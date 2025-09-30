@@ -1,5 +1,9 @@
 <img width="570" height="286" alt="image" src="https://github.com/user-attachments/assets/9ae5a22b-39a6-40e3-a591-860cc7eeccfa" />
-# Transforming an Old Phone into a Multi-Function Control Device
+# Transforming an Old Phone(Android) into a Multi-Function Control Device
+
+
+# Android Soft
+[Project Link]([https://github.com/NixerSo5/quickTouch](https://github.com/NixerSo5/quickTouchAndroid))
 
 ## Project Overview
 
