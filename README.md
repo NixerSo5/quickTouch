@@ -2,8 +2,7 @@
 # Transforming an Old Phone(Android) into a Multi-Function Control Device
 
 
-# Android Soft
-[Project Link]([https://github.com/NixerSo5/quickTouch](https://github.com/NixerSo5/quickTouchAndroid))
+# Android Soft - GitHub: [Project Link](https://github.com/NixerSo5/quickTouchAndroid)
 
 ## Project Overview
 
