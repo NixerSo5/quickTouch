@@ -48,6 +48,6 @@ This project is licensed under the MIT License. For more details, please see the
 
 For any questions or suggestions, please reach out to us at:  
 - Email: [nixer456@163.com](mailto:nixer456@163.com)  
-- GitHub: [Project Link](https://github.com/your-repo)
+- GitHub: [Project Link](https://github.com/NixerSo5/quickTouch)
 
 Thank you for your interest and support in this project!
